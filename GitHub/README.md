@@ -43,6 +43,8 @@ GitHub is the most important tool you can use as a developer. We will explore wh
 - [Git](https://git-scm.com/)
 - [GitHub glossary](https://help.github.com/en/articles/github-glossary)
 - [About READMEs](https://help.github.com/en/articles/about-readmes)
+- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [StackEdit](https://stackedit.io/)
 - [Licensing a repository](https://help.github.com/en/articles/licensing-a-repository)
