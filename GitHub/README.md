@@ -21,7 +21,7 @@ GitHub is the most important tool you can use as a developer. We will explore wh
 12. **Repository**: A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private. [Source](https://help.github.com/en/articles/github-glossary)
 14. **README.md**: You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. [Source](https://help.github.com/en/articles/about-readmes)
 15. **License**: Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software. [Source](https://help.github.com/en/articles/licensing-a-repository)
-16. **Version Control**: 
+16. **Version Control**: A system that records changes to a file or set of files over time so that you can recall specific versions later. [Source](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
 # Setup Your GitHub account.
 1. [Join GitHub](https://github.com/join?source=header-home)
@@ -35,8 +35,8 @@ GitHub is the most important tool you can use as a developer. We will explore wh
 # Projects
 
 2. Complete [Recipe Markdown](./Project_1_Recipe_Markdown/)
-3. Complete [Commit Messages](./Commit_Messages/)
-4. Complete [About Me](./About_Me/)
+3. Complete [About Me](./Project_2_About_Me/)
+4. Complete [Free For All](./Project_3_Free_For_All/)
 
 # Resources
 
