@@ -36,5 +36,5 @@ You may want to change the style of the egg, type of bread, or add extra ingredi
 
 # Inspired By
 
-[Perfect Breakfast](https://www.allrecipes.com/recipe/221304/perfect-breakfast/)
-[Avocado Toast (Vegan)](https://www.allrecipes.com/recipe/246803/avocado-toast-vegan/?internalSource=hub%20recipe&referringContentType=Search&clickId=cardslot%205)
+- [Perfect Breakfast](https://www.allrecipes.com/recipe/221304/perfect-breakfast/)
+- [Avocado Toast (Vegan)](https://www.allrecipes.com/recipe/246803/avocado-toast-vegan/?internalSource=hub%20recipe&referringContentType=Search&clickId=cardslot%205)
