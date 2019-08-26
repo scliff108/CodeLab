@@ -29,12 +29,12 @@ GitHub is the most important tool you can use as a developer. We will explore wh
     2. Use a non-school email address.
     3. Use your school password. (I will not be able to recover your password)
 2. [Follow Me](https://github.com/scliff108)
+3. Complete [Creating your First Repository](https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop)
+4. Complete [Hello World](https://guides.github.com/activities/hello-world/)
 
 # Projects
 
-1. Complete [Creating your First Repository](https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop) and [Submit](https://airtable.com/shr1LN8AyA548UgRa)
-2. Complete [Hello World](https://guides.github.com/activities/hello-world/)
-2. Complete [Recipe Markdown](/Recipe_Markdown/)
+2. Complete [Recipe Markdown](/Project_1_Recipe_Markdown/)
 3. Complete [Commit Messages](/Commit_Messages/)
 4. Complete [About Me](/About_Me/)
 
