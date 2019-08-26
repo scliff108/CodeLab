@@ -21,11 +21,11 @@ You will use the GitHub Markdown Language to create a file that will contain you
 
 # Rubric
 
-[Rubric](/Project_1_Recipe_Markdown_Rubric.pdf)
+[Rubric](./Project_1_Recipe_Markdown_Rubric.pdf)
 
 # Example
 
-[My Saturday Breakfast](/My_Saturday_Breakfast/)
+[My Saturday Breakfast](./My_Saturday_Breakfast/)
 
 # Submission
 
