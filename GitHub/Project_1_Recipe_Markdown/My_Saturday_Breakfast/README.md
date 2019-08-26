@@ -8,13 +8,14 @@ I typically have time to cook a nice breakfast on Saturday mornings. My favorite
 - **Cook:** 5 mins
 - **Total:** 15 mins
 - **Servings:** 1 serving
+- **Total Cost:** $4.00
 
 # Ingredients
 
 - [Whole Wheat English Muffin](https://primenow.amazon.com/dp/B074H6R68R?qid=1566848952&m=ANOZNJWOJO2HN&sr=1-1&ref_=pn_sr_sg_1_img_ANOZNJWOJO2HN): $0.45
 - 1 [Avocado](https://primenow.amazon.com/dp/B07C5ZMJ5H?qid=1566848755&m=ANOZNJWOJO2HN&sr=1-1&ref_=pn_sr_sg_1_img_ANOZNJWOJO2HN): $2.99
 - 2 [Eggs](https://primenow.amazon.com/dp/B07PFDYT9T?qid=1566848811&m=ANOZNJWOJO2HN&sr=1-5&ref_=pn_sr_sg_5_img_ANOZNJWOJO2HN): $0.50
-- [Butter](https://primenow.amazon.com/dp/B074VDJ7KZ?qid=1566848883&m=ANOZNJWOJO2HN&sr=1-2&ref_=pn_sr_sg_2_img_ANOZNJWOJO2HN): $0.07/ounce
+- [Butter](https://primenow.amazon.com/dp/B074VDJ7KZ?qid=1566848883&m=ANOZNJWOJO2HN&sr=1-2&ref_=pn_sr_sg_2_img_ANOZNJWOJO2HN): $0.06/ounce
 
 # Directions
 
