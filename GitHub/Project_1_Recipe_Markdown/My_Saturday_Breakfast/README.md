@@ -2,7 +2,7 @@
 
 I typically have time to cook a nice breakfast on Saturday mornings. My favorite is Avocado Toast with Egg.
 
-![Avocado Toast on English Muffin](./Avocado-Toast.jpg)
+![Avocado Toast on English Muffin](./avocado-toast.jpg)
 
 - **Prep:** 10 mins
 - **Cook:** 5 mins
