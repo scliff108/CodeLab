@@ -26,8 +26,11 @@ There are a few projects to get you started using HTML and CSS in the [HTML CSS]
 We will use [Python 3](https://docs.python.org/3/) in this class.
 
 > Python is powerful... and fast;
+
 > plays well with others;
+
 > is friendly & easy to learn;
+
 > is Open.
 
 There are a few projects to get you started using Python in the [Python](/Python/) folder.
