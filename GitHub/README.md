@@ -34,9 +34,9 @@ GitHub is the most important tool you can use as a developer. We will explore wh
 
 # Projects
 
-2. Complete [Recipe Markdown](/Project_1_Recipe_Markdown/)
-3. Complete [Commit Messages](/Commit_Messages/)
-4. Complete [About Me](/About_Me/)
+2. Complete [Recipe Markdown](./Project_1_Recipe_Markdown/)
+3. Complete [Commit Messages](./Commit_Messages/)
+4. Complete [About Me](./About_Me/)
 
 # Resources
 
