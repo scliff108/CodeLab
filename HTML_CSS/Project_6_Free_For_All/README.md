@@ -1,12 +1,12 @@
 # About
 
-In this free for all project, you will create a project of your choosing.
+In this free for all project, you can recreate your last Free For All Project or start from scratch.
 
 # Requirements
 
 1. Topic is approved by teacher.
-2. README.md file is well formatted and easy to read/understand.
-3. README.md file includes:
+2. Webpage is well formatted and easy to read/understand.
+3. Webpage includes:
     - Text
         - Bold
         - Italic
@@ -17,21 +17,22 @@ In this free for all project, you will create a project of your choosing.
     - Lists
         - Ordered
         - Unordered
-4. README.md file includes ideas for further development.
+4. Webpage includes ideas for further development.
 
 # Instructions
 
-1. Come up with a topic for your project.
-2. Present topic to Mr. Clifford.
-3. On a piece of paper, brainstorm ideas for your project.
-4. Organize your project so it makes logical sense.
-5. Create a new GitHub Repository. Be sure to follow the instructions to [create a repository](https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop).
-6. In your README.md file, create your project.
-7. In your README.md file, add a section for further development. This is where you will add ideas you have for your project but may not have the time or ability to complete at this point.
+1. Come up with a topic for your project (if starting from scratch).
+2. Present topic to Mr. Clifford (if starting from scratch).
+3. On a piece of paper, brainstorm ideas for your project (if starting from scratch).
+4. Organize your project so it makes logical sense (if starting from scratch).
+5. Review your Recipe Markdown project (if updating project 3).
+6. [Clone this repository](https://github.com/scliff108/html_css_template)
+7. Translate your README.md file into HTML and CSS in your new repository.
+8. Add your original README.md file into your repository.
 
 # Rubric
 
-[Rubric](./Project_3_Free_For_All.pdf)
+[Rubric](./Project_6_Free_For_All.pdf)
 
 # Example
 
@@ -43,6 +44,8 @@ In this free for all project, you will create a project of your choosing.
 
 # Resources
 
-- [About READMEs](https://help.github.com/en/articles/about-readmes)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Creating your First Repository](https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop)
+- [Basic HTML Template](https://github.com/scliff108/html_css_template)
+- [HTML Essential Tags](http://www.simplehtmlguide.com/essential.php)
+- [HTML Markup Examples](http://www.simplehtmlguide.com/examplesheet.php)
+- [HTML Tags Cheat Sheet](./HTML-Cheat-Sheet.pdf)
+- [HTML Cheat Sheet](http://www.simplehtmlguide.com/cheatsheet.php)
