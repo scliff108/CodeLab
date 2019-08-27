@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: 5% auto;
+}
+
+h1 {
+    border-bottom: 1px solid black;
+}
+
+#page-header h1 {
+    border-bottom: none;
+    text-align: center;
+}
+
+#page-header {
+    padding-bottom: 1.5rem;
+    border: 1px dashed green;
+    background-color: lightgreen;
+}
+
+img {
+    width: 50%;
+    float: left;
+    padding: 4px;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 grey;
+    background-color: white;
+}
+
+img:hover {
+    box-shadow: 0 8px  16px 0 grey;
+}
+
+.row ul {
+    float: left;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol, p {
+    line-height: 1.75rem;    
+}
