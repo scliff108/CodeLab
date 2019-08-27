@@ -36,9 +36,9 @@ We will be using HTML to improve our current GitHub projects. We will be transfe
 
 # Projects
 
-1. Complete [Recipe HTML](./Project_3_Recipe_HTML/)
-2. Complete [About Me](./Project_4_About_Me/)
-3. Complete [Free For All](./Project_5_Free_For_All/)
+1. Complete [Recipe HTML](./Project_4_Recipe_HTML/)
+2. Complete [About Me](./Project_5_About_Me/)
+3. Complete [Free For All](./Project_6_Free_For_All/)
 
 # Resources
 
