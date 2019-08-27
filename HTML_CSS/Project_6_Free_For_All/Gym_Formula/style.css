@@ -1,0 +1,88 @@
+body {
+    background-image: url("./fitness-background.gif");
+    background-attachment: fixed;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: 5% auto;
+}
+
+blockquote {
+    border-radius: 3px;
+    position: relative;  /*  <--- */
+    font-style: italic;
+    text-align: center;
+    padding: 1rem 1.2rem;
+    width: 80%;  /* create space for the quotes */
+    color: #4a4a4a;
+    margin: 1rem auto 2rem;
+    color: #4a4a4a;
+    background: #E8E8E8;
+}
+/* -- create the quotation marks -- */
+blockquote:before,
+blockquote:after{
+    font-family: FontAwesome;
+    position: absolute;
+    /* -- inside the relative position of blockquote -- */
+    top: 13px;
+    color: #E8E8E8;
+    font-size: 34px;
+}
+blockquote:before{
+    content: "\f10d";
+    margin-right: 13px;
+    right: 100%;
+}
+blockquote:after{
+    content: "\f10e";
+    margin-left: 13px;
+    left: 100%;  
+}
+blockquote footer:before {
+    content: "\2013 \2003";
+}
+
+.three-column {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+.two-column {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.workout-section {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.workout-section:hover {
+    box-shadow: 0 4px 8px 0 white;
+}
+
+.workout-section h4 {
+    width: 90%;
+    margin: auto;
+    border-bottom: 1px solid white;
+}
+
+ul, ol, p {
+    line-height: 1.5rem;    
+}
