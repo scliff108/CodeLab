@@ -38,6 +38,6 @@ Like I said, my parents are so hard working. My dad was a Marine and a Police Of
 
 # My Favorite Books
 
-- [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/ref=sr_1_1?keywords=creativity%2C+inc&qid=1566853123&s=books&sr=1-1) by Ed Catmull
-- [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/ref=sr_1_1?keywords=outliers&qid=1566853150&s=books&sr=1-1) by Malcolm Gladwell
+1. [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie
+2. [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/ref=sr_1_1?keywords=creativity%2C+inc&qid=1566853123&s=books&sr=1-1) by Ed Catmull
+3. [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/ref=sr_1_1?keywords=outliers&qid=1566853150&s=books&sr=1-1) by Malcolm Gladwell
