@@ -23,7 +23,7 @@ GitHub is the most important tool you can use as a developer. We will explore wh
 15. **License**: Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software. [Source](https://help.github.com/en/articles/licensing-a-repository)
 16. **Version Control**: A system that records changes to a file or set of files over time so that you can recall specific versions later. [Source](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
-# Setup Your GitHub account.
+# Setup Your GitHub Account.
 1. [Join GitHub](https://github.com/join?source=header-home)
     1. Use an appropriate username somehow related to your name.
     2. Use a non-school email address.
@@ -34,9 +34,9 @@ GitHub is the most important tool you can use as a developer. We will explore wh
 
 # Projects
 
-2. Complete [Recipe Markdown](./Project_1_Recipe_Markdown/)
-3. Complete [About Me](./Project_2_About_Me/)
-4. Complete [Free For All](./Project_3_Free_For_All/)
+1. Complete [Recipe Markdown](./Project_1_Recipe_Markdown/)
+2. Complete [About Me](./Project_2_About_Me/)
+3. Complete [Free For All](./Project_3_Free_For_All/)
 
 # Resources
 
