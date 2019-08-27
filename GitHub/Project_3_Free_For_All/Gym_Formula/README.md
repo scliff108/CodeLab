@@ -8,9 +8,9 @@ Arnold Schwarzenegger
 
 # Terminology
 
-1. Set
-2. Rep
-3. Superset
+1. Rep: The number of times you perform an exercise
+2. Set: The number of cycles of reps that you complete
+3. Superset: Alternating sets of two different exercises with no rest in between
 
 # Muscle Groups
 
@@ -186,3 +186,7 @@ Your *secondary muscle group* should be your *small muscle group* for the day. T
 - Dips
 - Tricep Push Downs
 - Skull Crushers
+
+# Plans For Future Development
+
+In the future, I would like to add more exercises, add a full sample workout routine, and add different workout formulas. In addition, I would like to add videos of each exercise or links to descriptions. In the far future I would like people to video tape themselves completing exercises and use image recognition software, artificial intelligence, and machine learning to analyze user's form completing exercises and offer suggestions for improvement.
