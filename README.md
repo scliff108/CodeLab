@@ -21,9 +21,13 @@ You will use HTML and CSS to make webpages in this class. HTML is similar to Mar
 
 There are a few projects to get you started using HTML and CSS in the [HTML CSS](/HTML_CSS/) folder.
 
- # Python
+ # Coming Soon
+ 
+ I will be adding Projects for each programming language soon. Here are some programming languages that will be added.
+ 
+ ## Python
 
-We will use [Python 3](https://docs.python.org/3/) in this class.
+[Python 3](https://docs.python.org/3/)
 
 > Python is powerful... and fast;
 
@@ -33,13 +37,9 @@ We will use [Python 3](https://docs.python.org/3/) in this class.
 
 > is Open.
 
-There are a few projects to get you started using Python in the [Python](/Python/) folder.
+ ## JavaScript
 
- # JavaScript
-
-JavaScript is another programming language you will use in this class. It is well-known as the scripting language for web pages but it is used for so much more.
-
-There are a few projects to get you started using JavaScript in the [JavaScript](/JavaScript/) folder.
+Well-known as the scripting language for web pages but it is used for so much more.
 
 # License
 
