@@ -21,6 +21,24 @@ You will use HTML and CSS to make webpages in this class. HTML is similar to Mar
 
 There are a few projects to get you started using HTML and CSS in the [HTML CSS](/HTML_CSS/) folder.
 
+# Articles
+
+It is important to stay informed. Every 5 classes, you are required to have read an article and submit a one paragraph summary about the article. Submit your articles on the [Article Submission Form](https://airtable.com/shrSYQcOsDLeACq6x).
+
+## Websites to Find Articles
+
+Here are some of the websites to help you find some articles. In no particular order:
+
+- [freeCodeCamp](https://www.freecodecamp.org/news/)
+- [Mashable](https://mashable.com/)
+- [The Hustle](https://thehustle.co/episodes)
+- [Tech Crunch](https://techcrunch.com/)
+- [Science Daily](https://www.sciencedaily.com/news/matter_energy/technology/)
+- [New Scientist](https://www.newscientist.com/subject/technology/)
+- [Popular Science](https://www.popsci.com/technology)
+- [DEV Community](https://dev.to/)
+- [MIT News](http://news.mit.edu/topic/computers)
+
  # Coming Soon
  
  I will be adding Projects for each programming language soon. Here are some programming languages that will be added.
