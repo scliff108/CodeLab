@@ -31,7 +31,7 @@ In this free for all project, you will create a project of your choosing.
 
 # Rubric
 
-[Rubric](./Project_3_Free_For_All.pdf)
+[Rubric](./../GitHub_Rubric.pdf)
 
 # Example
 
