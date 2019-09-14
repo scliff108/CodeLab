@@ -34,7 +34,7 @@ These are not required but creativity is a big part of this project. Meeting the
 
 # Rubric
 
-[Rubric](./Project_2_About_Me_Rubric.pdf)
+[Rubric](./../GitHub_Rubric.pdf)
 
 # Example
 

@@ -21,7 +21,7 @@ You will use the GitHub Markdown Language to create a file that will contain you
 
 # Rubric
 
-[Rubric](./Project_1_Recipe_Markdown_Rubric.pdf)
+[Rubric](./../GitHub_Rubric.pdf)
 
 # Example
 
