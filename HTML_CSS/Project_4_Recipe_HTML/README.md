@@ -19,7 +19,7 @@ You will use the HTML and CSS to create a webpage that will contain your favorit
 
 # Rubric
 
-[Rubric](./Project_4_Recipe_Markdown_Rubric.pdf)
+[Rubric](./../HTML_Rubric.pdf)
 
 # Example
 
