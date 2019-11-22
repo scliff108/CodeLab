@@ -30,7 +30,7 @@ These are not required but creativity is a big part of this project. Meeting the
 
 # Rubric
 
-[Rubric](./Project_5_About_Me_Rubric.pdf)
+[Rubric](./../HTML_Rubric.pdf)
 
 # Example
 
