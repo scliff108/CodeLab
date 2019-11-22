@@ -32,7 +32,7 @@ In this free for all project, you can recreate your last Free For All Project or
 
 # Rubric
 
-[Rubric](./Project_6_Free_For_All.pdf)
+[Rubric](./../HTML_Rubric.pdf)
 
 # Example
 
